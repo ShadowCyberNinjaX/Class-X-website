@@ -1,0 +1,204 @@
+<html>
+<center><head><img src="Untitled2.jpg"><p>
+<style>
+body {
+  background-image: url('images (1).jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+header {
+  background-color: #666;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+
+}
+
+nav {
+  float: right;
+  width: 30%;
+  height: 270px;
+  background: #ccc;
+  padding: 20px;
+
+  }
+
+article {
+  float: left;
+  padding: 20px;
+  width: 60%;
+text-align: justify;
+  height: 270px; 
+
+}
+
+
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+
+}
+
+.div1 {
+float: left;
+  width: 30%;
+  height: 330px;
+  background: #ccc;
+  padding: 20px;
+
+}
+
+.div2 {
+  float: right;
+  padding: 20px;
+  width: 60%;
+
+  height: 320px; 
+}
+
+footer {
+  width: 100%;
+  background-color: #666;
+  padding: 8px;left;
+  font-size: 30px;
+  color: white;
+
+}
+</style></head>
+<body>
+
+<table cellspacing="30%"><tr><td><a href="home.html"><font size="4"><b>Home</td><td><a href="food.HTML"><font size="4"><b>Food</td>
+<td><a href="religion.html"><font size="4"><b>Religions</td><td><a href="monuments.html"><font size="4"><b>Monuments</td><td><a href="danang.html"><center><font size="4"><b>Dances & Music<center></td></tr></font></table></center><p>
+<marquee><a href="https://www.covidvisualizer.com">Click Here For Covid Updates</a></marquee>
+<header><h1><font face="Lucida Fax"><b><u>India At A Glance</u></b></font></h1></header></center><p><p>
+
+<section>
+<nav><h3>
+    <ul type="dot">
+      <li>Indian civilization is ancient</li><p>
+      <li>The Indus Valley Civilization was one of the first civilizations on earth</li><p>
+      <li>The Vedic period was a time in Indian history when the Hindu religion and caste system began in India</li><p>
+    <li>Mughal Empire was the last and the strongest Islamic empire in India</li>  <p>
+    </ul>
+ </h3></nav>
+
+ <article><h3>
+
+India is one of the oldest civilizations in the world with a kaleidoscopic variety and rich cultural heritage. It has achieved all-round socio-economic progress since Independence. <p>As the 7th largest country in the world, India stands apart from the rest of Asia, marked off as it is by mountains and the sea, which give the country a distinct geographical entity. Bounded by the Great Himalayas in the north, it stretches southwards and at the Tropic of Cancer, tapers off into the Indian Ocean between the Bay of Bengal on the east and the Arabian Sea on the west.<p>
+More than 1.3 billion people live in Indian sub-continent. India is a land of many cultural livings, “Unity through Diversity” is the main attraction to India by many of the foreign countries. <br>Like USA, India is also a Federal Union where almost all of its states carries different Language, different cultural identities. That is why it is known as a sub-continent.</h3></article>
+
+
+</section><p><p>
+
+<header><h1><font face="Lucida Fax"><b><u>National Identity Elements</u></b></font></h1></header></center><p>
+<CENTER><table cellspacing="40%"><tr><td><center><img src="national-flag.jpg"><font face="forte"><br><abbr title="India">National Flag</abbr></font></img></center></td>
+           <td><center><img src="national-bird.jpg"><font face="forte"><br><abbr title="Peacock">National Bird</abbr></font></img></center></td>
+           <td><center><img src="national-flower.jpg"><font face="forte"><br><abbr title="Lotus">National Flower</abbr></font></img></center></td>
+           <td><center><img src="national-tree.jpg"><font face="forte"><br><abbr title="Indian Fig Tree">National Tree</abbr></font></img></center></td>
+           <td><center><img src="national-animal.jpg"><font face="forte"><br><abbr title="Tiger">National Animal</abbr></font></img></center></td>
+        </tr>
+        <tr><td><center><img src="national-state-emblem.jpg"><font face="forte"><br><abbr title="Lion Capital of Ashoka">National Emblem</abbr></font></img></center></td>
+            <td><center><img src="national-anthem.jpg"><font face="forte"><br><abbr title="Jana Mana Gana -by Rabindranath Thakur">National Anthem</abbr></font></img></center></td>
+            <td><center><img src="national-song.jpg"><font face="forte"><br><abbr title="Vande Mataram -by Bankimchandra Chatterji">National Song</abbr></font></img></center></td>
+            <td><center><img src="national-calander.jpg"><font face="forte"><br><abbr title="Shalivahana Shaka Calendar">National Calendar</abbr></font></img></center></td>
+            <td><center><img src="national-currency-symbol.jpg"><font face="forte"><br><abbr title="Rupees">Currency Symbol</abbr></font></img></center></td>
+        </tr>
+</table></CENTER>
+
+<section>
+<div class="div1"><h2>
+        Here in India, we see people in,<p></h2>
+        <ul type="dot"><h3>
+      <li>People with different clothing</li><p>
+      <li> People with different religions</li><p>
+      <li> People with different foods</li><p>
+      <li>People with different celebrations</li><p>
+      <li> People living in different localities like Urban, Semi-urban, Rural</li>
+   </h3></ul></font>
+</div>
+
+<div class="div2"><table border= "1" cellspacing="5px">
+                 <caption><center><font size="4">India is mainly classified into four major sections</font></center></caption>
+<tr>
+<td><font size="3">1.North India: <br>New Delhi:<br>Map:<a href="https://www.google.com/maps/place/New+Delhi,+Delhi/@28.5272803,77.0688997,11z/data=!3m1!4b1!4m5!3m4!1s0x390cfd5b347eb62d:0x52c2b7494e204dce!8m2!3d28.6139391!4d77.2090212?hl=en-GB">Click Here</a></font></td>
+<td><font size="3">2.Eastern India:<br> Kolkata:<br>Map:<a href="https://www.google.com/maps/place/Kolkata,+West+Bengal/@22.6757521,88.0495361,10z/data=!3m1!4b1!4m5!3m4!1s0x39f882db4908f667:0x43e330e68f6c2cbc!8m2!3d22.572646!4d88.363895?hl=en-GB">Click Here</font></a></td>
+<td><font size="3">3.Western India:<br> Mumbai:<br>Map:<a href="https://www.google.com/maps/place/Mumbai,+Maharashtra/@19.0821978,72.7411,11z/data=!3m1!4b1!4m5!3m4!1s0x3be7c6306644edc1:0x5da4ed8f8d648c69!8m2!3d19.0759837!4d72.8776559?hl=en-GB">Click Here</font></a></td>
+<td><font size="3">4.South India:<br> Chennai:<br>Map:<a href="https://www.google.com/maps/place/Chennai,+Tamil+Nadu/@13.0474878,80.0689252,11z/data=!3m1!4b1!4m5!3m4!1s0x3a5265ea4f7d3361:0x6e61a70b6863d433!8m2!3d13.0826802!4d80.2707184?hl=en-GB">Click Here</font></a></td>
+</tr>
+</table><p>
+<table border="1">
+<caption><font size="4"><u>All States At A Glance</u></font></caption>
+<tr>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://andhrapradesh.s3waas.gov.in/">Andhra Pradesh</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://arunachalpradesh.s3waas.gov.in/">Arunachal Pradesh</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://assam.gov.in/en">Assam</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://bihar.s3waas.gov.in/">Bihar</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://chhattisgarh.s3waas.gov.in/">Chattisgarh</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://www.goa.gov.in/">Goa</a></abbr></font></td>
+</tr>
+
+<tr>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://gujaratindia.gov.in/about-gujarat/cities.htm">Gujrat</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://haryana.s3waas.gov.in/">Haryana</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://himachalpradesh.s3waas.gov.in/">Himachal Pradesh</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://jharkhand.s3waas.gov.in/">Jharkhand</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://karnataka.gov.in/district/en">Karnataka</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://kerala.s3waas.gov.in/">Kerala</a></abbr></font></td>
+</tr>
+
+<tr>
+
+
+<td><font size="3"><abbr title="Click For More Info"><a href="https://madhyapradesh.s3waas.gov.in/">Madhya Pradesh</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://maharashtra.s3waas.gov.in/">Maharashtra</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://www.india.gov.in/official-website-manipur">Manipur</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://meghalaya.gov.in/">Meghalaya</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://mizoram.gov.in/">Mizoram</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://nagaland.gov.in/">Nagaland</a></abbr></font></td>
+</tr>
+
+<tr>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://odisha.s3waas.gov.in/">Oddisa</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://punjab.s3waas.gov.in/">Punjab</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://rajasthan.gov.in/Government/DistrictGovernment/Pages/default.aspx">Rajasthan</a></abbr></font>
+</td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://sikkim.gov.in/">Sikkim</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://www.tn.gov.in/">Tamilnadu</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://www.telangana.gov.in/">Telangana</a></abbr></font></td>
+</tr>
+
+<tr>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://tripura.gov.in/">Tripura</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="http://up.gov.in/">Uttar Pradesh</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://uk.gov.in/">Uttarakhand</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://wb.gov.in/government-district-and-localgovt.aspx">West Bengal</a></abbr></font></td>
+</tr>
+</table><p>
+<table border="1">
+<caption><font size="4"><u>8 Union Territory Of India</u></font></caption>
+<tr>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://www.andaman.gov.in/">Andaman & Nicobar Islands</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://www.jk.gov.in/jammukashmir/">Jammu & Kashmir</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="http://chandigarh.gov.in/">Chandigarh</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="http://www.itestweb.in/pdy1/">Puducherry</a></abbr></font></td>
+</tr>
+<tr>
+<td><font size="3"><abbr title="Click For More Info"><a href="www.daman.nic.in">Dadra and Nagar<br>Haveli and Daman & Diu</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://www.lakshadweeptourism.com/">Lakshadweep</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://services.delhi.gov.in/home/Services-Department">The NCT of Delhi</a></abbr></font></td>
+<td><font size="3"><abbr title="Click For More Info"><a href="https://ladakh.nic.in/">Ladakh</a></abbr></font></td>
+</tr>
+</table>
+</section><p>
+
+<footer>
+<center><table cellspacing="15px"><tr><td><a href="home.html"><font size="3" color="white">Home</td><td><a href="food.HTML"><font size="3" color="white">Food</td>
+<td><a href="religion.html"><font size="3" color="white">Religions</td><td><a href="monuments.html"><font size="3" color="white">Monuments</td><td><a href="danang.html"><center><font size="3" color="white">Dances & Music<center></td></tr></font></table></center></footer>
+
+</body>
+</html>

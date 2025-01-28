@@ -1,0 +1,212 @@
+<html>
+<center><head><img src="illustration-famous-indian-monument-landmark-260nw-11382150051.jpg">
+<style>
+header {
+  background-color: #666;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
+body {
+  background-image: url('download (43).jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+nav {
+  float: right;
+  width: 30%;
+  height: 130px;
+  background: #ccc;
+  padding: 20px;
+  }
+
+article {
+  float: left;
+  padding: 20px;
+  width: 60%;
+height: 130px; 
+}
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+footer {
+  width: 100%;
+  background-color: #666;
+  padding: 8px;left;
+  font-size: 30px;
+  color: white;
+}
+</style>
+</head>
+
+<body bgcolor="#ffffc2">
+
+<table cellspacing="20%"><tr><td><a href="home.html"><font size="4"><b>Home</b></td><td><a href="food.HTML"><font size="4"><b>Food</b></td>
+<td><a href="religion.html"><font size="4"><b>Religions</b></td><td><a href="monuments.html"><font size="4"><b>Monuments</b></td><td><a href="danang.html"><center><font size="4"><b>Dances & Music</b><center></td></tr></font></table></center><p>
+
+
+<header><h1><font face="Lucida Fax"><b><u>Monuments & Architecture Of India</u></b></font></h1></header></center><p><p>
+
+<section>
+<nav>
+<b><u>Types of Architecture</u></b>
+    <ul type="dot">
+      <li>Colonial Architecture</li>
+      <li>Indo Islamic Architecture</li>
+      <li>Ancient Architecture</li>
+      <li>Cave Architecture</li>  
+      <li>Rock Cut Architecture</li> 
+      <li>Temple Architecture</li>
+    </ul>
+ </nav>
+
+ <article>
+
+<h3>One of the most enduring achievements of Indian civilization is it’s architecture.As a result of vast divercity, a vast range of architectural specimens have evolved, retaining a certain amount of continuity across history.</h3></article>
+
+</section>
+<p>
+<header><h1><font face="Lucida Fax"><b><u>Colonial Architecture</u></b></font></h1></header><p>
+<h3>
+Like other suspect of society, the colonization of India also had a great impact on architecture.In the beginning of the colonial rule there were attempts at creating authority through classical prototypes.In its later phase the colonial architecture culminated into called Indo -Saracenic architecture. 
+<p>The colonial architecture exhibited itself through institutional, civic and utilitarian buildings such as post-office railway stations, rest houses and government buildings.</h3><p>
+
+<center><table cellpadding="10px">
+<caption><u><h1>Example:-</h1></u></caption><br>
+<tr>
+<td><center><img src="download (3).jpg"></center></td>
+<td><center><img src="download (4).jpg"></center></td>
+<td><center><img src="download (5).jpg"></center></td>
+<td><center><img src="260px-Gol_Market,_New_Delhi.jpg"></center></td>
+</tr>
+<tr>
+<td><center><h2>Santhome Church, <br>Chennai</h2></center></td>
+<td><center><h2>All Saints Cathedral, <br>Allahabad</h2></center></td>
+<td><center><h2>St.George's Cathedral, <br>Chennai</h2></center></td>
+<td><center><h2>Gole Market, <br>New Delhi</h2></center></td>
+</tr>
+</table></center>
+<p>
+
+<header><h1><font face="Lucida Fax"><b><u>Indo - Islamic Architecture</u></b></font></h1></header><p>
+<h3>
+The medieval period saw great developments in the field of architecture. With the coming of Muslims to India, many new features came to be introduced in buildings. The development of Muslim Style of Architecture of this period can be called the Indo-Islamic Architecture or the Indian Architecture influenced by Islamic Art.</h3><p>
+
+<center><table cellpadding="10px">
+<caption><u><h1>Example:-</h1></u></caption><br>
+<tr>
+<td><img src="download (9).jpg"></td>
+<td><img src="download (8).jpg"></td>
+<td><img src="download (7).jpg"></td>
+<td><img src="download (6).jpg"></td>
+</tr>
+<tr>
+<td><center><h2>Qutub Minar, <br>New Delhi</h2></center></td>
+<td><center><h2>Agra Fort, <br>Agra</h2></center></td>
+<td><center><h2>Taj Mahal, <br>Agra</h2></center></td>
+<td><center><h2>Red Fort, <br>New Delhi</h2></center></td>
+</tr>
+</table></center>
+<p>
+
+<header><h1><font face="Lucida Fax"><b><u>Ancient Architecture</u></b></font></h1></header><p>
+<h3>
+Indian architecture is as old as the history of the civilization. The earliest remains of recognizable building activity in the India dates back to the Indus Valley cities. Among India's ancient architectural remains, the most characteristic are the temples, Chaityas, Viharas, Stupas and other religious structures.<p>
+The distinct architectural styles of temple constructions in different parts was a result of geographical, climatic, ethnic, racial, historical and linguistic diversities.
+</h3><p>
+
+<center><table cellpadding="10px">
+<caption><u><h1>Example:-</h1></u></caption><br>
+<tr>
+<td><img src="download (10).jpg"></td>
+<td><img src="download (11).jpg"></td>
+<td><img src="download (12).jpg"></td>
+<td><img src="download (13).jpg"></td>
+</tr>
+<tr>
+<td><center><h2>Akshardham Temple, <br>Delhi</h2></center></td>
+<td><center><h2>Virupaksha Temple, <br>Karnataka</h2></center></td>
+<td><center><h2>Karla Caves, <br>Maharashtra</h2></center></td>
+<td><center><h2>Ellora Caves, <br>Maharashtra</h2></center></td>
+</tr>
+</table></center>
+<p>
+  
+<header><h1><font face="Lucida Fax"><b><u>Cave Architecture</u></b></font></h1></header><p>
+<h3>
+The cave architecture in India is believed to have begun during the ancient time. These caves were used by Buddhist and Jain monks as places of worship and residence .
+</h3><p>
+
+<center><table cellpadding="10px">
+<caption><u><h1>Example:-</h1></u></caption><br>
+<tr>
+<td><img src="download (14).jpg"></td>
+<td><img src="download (15).jpg"></td>
+<td><img src="download (16).jpg"></td>
+<td><img src="download (17).jpg"></td>
+</tr>
+<tr>
+<td><center><h2>Mahabalipuram, <BR>Tamil Nadu</h2></center></td>
+<td><center><h2>Ajanta Caves, <br>Maharashtra</h2></center></td>
+<td><center><h2>Bhaja Caves, <br>Maharashtra</h2></center></td>
+<td><center><h2>Bedse Caves, Maharashtra</h2></center></td>
+</tr>
+</table></center>
+<p>
+
+<header><h1><font face="Lucida Fax"><b><u>Rock Cut Architecture</u></b></font></h1></header><p>
+<h3>
+The Rock-cut structures present the most spectacular piece of ancient Indian art specimen. Most of the rock-cut structures were closely associated with various religions and religious activities. In the beginning, remarkable Buddhist and Jain rock-cut structures were built in areas such as Bihar in the east and Maharashtra in the west. Numerous caves were excavated by the Buddhist monks for prayer and residence purposes. The best example of this is Chaityas (prayer halls) and viharas (monasteries). 
+</h3><p>
+
+<center><table cellpadding="10px">
+<caption><u><h1>Example:-</h1></u></caption><br>
+<tr>
+<td><img src="download (18).jpg"></td>
+<td><img src="download (19).jpg"></td>
+<td><img src="download (20).jpg"></td>
+<td><img src="download (21).jpg"></td>
+</tr>
+<tr>
+<td><center><h2>Kailasa temple, <br>Ellora</h2></center></td>
+<td><center><h2>Pancha Rathas, <br>Mahabalipuram</h2></center></td>
+<td><center><h2>Barabar Caves, <br>Bihar</h2></center></td>
+<td><center><h2>Badami Cave Temples, <br>Karnataka</h2></center></td>
+</tr>
+</table></center>
+<p>
+
+<header><h1><font face="Lucida Fax"><b><u>Temple Architecture</u></b></font></h1></header><p>
+<h3>
+In ancient India, temple architecture of high standard developed in almost all regions. The distinct architectural style of temple construction in different parts was a result of geographical, climatic, ethnic, racial, historical and linguistic diversities. Ancient Indian temples are classified in three broad types. This classification is based on different architectural styles, employed in the construction of the temples. Three main style of temple architecture are the Nagara or the Northern style, the Dravida or the Southern style and the Vesara or Mixed style. But at the same time there are also some regional styles of Bengal, Kerala and the Himalayan areas. 
+</h3><p>
+
+<center><table cellpadding="10px">
+<caption><u><h1>Example:-</h1></u></caption><br>
+<tr>
+<td><img src="download (22).jpg"></td>
+<td><img src="download (23).jpg"></td>
+<td><img src="download (24).jpg"></td>
+<td><img src="download (25).jpg"></td>
+</tr>
+<tr>
+<td><center><h2>Brihadeeswarar Temple, <br>Thanjavur</h2></center></td>
+<td><center><h2>Jagadamba Temple, <br>Madhya Pradesh</h2></center></td>
+<td><center><h2>Sun Temple, <br>Modhera</h2></center></td>
+<td><center><h2>Konark Sun Temple, <br>Orissa</h2></center></td>
+</tr>
+</table></center>
+<p>
+
+<section><footer><center><table cellspacing="15px"><tr><td><a href="home.html"><font size="3" color="white">Home</td><td><a href="food.HTML"><font size="3" color="white">Food</td>
+<td><a href="religion.html"><font size="3" color="white">Religions</td><td><a href="monuments.html"><font size="3" color="white">Monuments</td><td><a href="danang.html"><center><font size="3" color="white">Dances & Music<center></td></tr></font></table></center></footer></section>
+</body>
+</html>

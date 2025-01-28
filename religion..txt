@@ -1,0 +1,179 @@
+<html>
+<center><head><img src="ee66a7d9_563_P_1_mr.jpg">
+<style>
+header {
+  background-color: #666;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
+body {
+  background-image: url('download (46).jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+nav {
+  float: right;
+  width: 34%;
+  height: 300px;
+
+  }
+
+article {
+  float: left;
+  width: 64%;
+  height: 300px; 
+}
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+div1{
+  float: center;
+  width: 100%;
+  height: 300px;
+  }
+
+footer {
+  width: 100%;
+  background-color: #666;
+  padding: 8px;left;
+  font-size: 30px;
+  color: white;
+}
+</style>
+</head>
+
+<body>
+<table cellspacing="20%"><tr><td><a href="home.html"><font size="4"><b>Home</b></td><td><a href="food.HTML"><font size="4"><b>Food</b></td>
+<td><a href="religion.html"><font size="4"><b>Religions</b></td><td><a href="monuments.html"><font size="4"><b>Monuments</b></td><td><a href="danang.html"><center><font size="4"><b>Dances & Music</b><center></td></tr></font></table></center><p>
+
+<header><h1><font face="Lucida Fax"><b><u>Religion In India</u></b></font></h1></header></center><p><p>
+<h3>Religion in India is characterised by a diversity of religious beliefs and practices. The Indian subcontinent is the birthplace of four of the world's major religions; namely Hinduism, Buddhism, Jainism and Sikhism. With this people in India also follows Christianity, Islam also.       </h3><p><p>
+
+<font size="7"><u>1.HINDUISM</u></font><p>
+<center><table>
+<caption><center><u><h1>Hindu Trinity Devas</h1></u></center></caption><br>
+<tr>
+<td><img src="3cf3dc094a274280b524fd94e5a23248.jpg"></td>
+<td><img src="c7d003ebb97b53cff4a7160e7c075acc.jpg"></td>
+<td><img src="4ec369beab3727953120350cd3a989a3.jpg"></td>
+</tr>
+<tr>
+<td><center><h2>Brahma The Creator</h2></center></td>
+<td><center><h2>Vishnu The Preserver</h2></center></td>
+<td><center><h2>Shiva The Destroyer</h2></center></td>
+</tr>
+</table></center>
+
+<center><table>
+<caption><center><u><h1>Hindu Trinity Devis</h1></u></center></caption><br>
+<tr>
+<td><img src="download(2)3.jpg"></td>
+<td><img src="f76ce6c378010530e00d27647786e203.jpg"></td>
+<td><img src="download6.jpg"></td>
+</tr>
+<tr>
+<td><center><h2>Saraswati, Goddess of Learning</h2></center></td>
+<td><center><h2>Laxmi, Goddess of Wealth</h2></center></td>
+<td><center><h2>Parvati, Goddess of Power</h2></center></td>
+</tr>
+</table></center>
+<p>
+
+<font size="5"><u><b>There are 7 core believes in Hinduism.</b></u></font><p>
+<font size="4"><B>1. Believe in a one universal soul:</B> Hindu’s believe in a one universal soul called Brahma.A formless , gender less source of all reality . Brahman is the universal and the marterial   reality.<br>
+2.<B> Believe in an immortal and individual soul:</B> Souls are known as aatma in Hinduism. Action of the soul while in a body have effects on that souls next life. When someone dies the   soul moves to a new body. This is called transmigration.<br>
+3.<B> Believe in Karma:</B> Karma is a action that effects in our society.<br>
+4.<B> Believe in Moksha:</B> The goal in a hindu life is to somehow get back to brahman. <br>
+5<B>. Believe in Veda:</B> The Vedas are the sacret book of Hinduism of knowledge. There are 4 Vedas.Yajurveda, Rigveda, Samaveda and Atharvaveda .<br> 
+6.<B> Believe in cyclical time:</B> For hindus there are no beginning or ending. Time is a series of circle. With Each cycle contains four yugas. Krita treta dwapara and kali.<br>
+7.<B> Believe in Dharma:</B> Dharma maintaince the balance in the universe.</font><P><P>
+<section>
+<font size="7"><u>2.BUDDHISM</u></font><p>
+<nav>
+<center><img src="download (1).jpg"><br><h2>Lord Buddha</h2></img></center>
+</nav>
+
+<article>
+<H3>The founder of Buddhism: Goutam buddha<p>
+<ul="dot">
+<li>It is one of the oldest civilisation started 2500 years ago in india.</li><li> It is world fourth largest religion with 520 million followers.</li>
+<li>Four nobel truths of Buddhism-<br></li></ul>
+       <ol><li>Life is dukkha.</li>
+	<li>Dukkha is caused by desire.</li>
+         <li>There is an end of dukkha.</li>
+	<li>The eight fold path.</li></ol>
+</H3>
+</article>
+</section>
+<P>
+<center><img src="unnamed.jpg"></center><p>
+
+
+<font size="7"><u>3.JAINISM</u></font><p>
+<section>
+<article><h3>•World’s most peace full religion<br>
+•Founder: Mahavir<br>
+•Eight core ideas of Jainism   <p>  
+      1.Three jewels<br>
+      2.Karma<br>
+      3.Ahimsa<br>
+      4.Monks and nuns<br>
+      5.Anekantavada<br>
+      6.Samsara and moksha<br>
+      7.Regular jains<br>
+      8.Jainism</h3><br>
+
+
+
+</article>
+<nav>
+<center><img src="mahavir-500x500.JPG"><br><h2>Mahavir</h2></center>
+</nav>
+</section><P>
+
+
+
+<font size="7"><u>4.SIKHISM</u></font><p>
+<section>
+<nav>
+<center><img src="download (2).jpg"><br><h2>Guru Nanak</h2></img></center>
+</nav>
+<article><h3>•The word Sikh means learner.<br>
+•Founder: Guru Nanak<br>
+•The Sikhs follows the teachings of 10 great Gurus who shaped Sikhism.<br>
+•The important guru is Guru Nanak.<br>
+•The most core belives of Sikhism is One god.
+</article>
+
+</section>
+<p>
+<section>
+<font size="7"><u>The Other Religions</u></font><p>
+<h3>There are also many other religion in India. Like, <u>Christism</u> and <u>Islam</u></h3>
+<div class="div1"><center><table border="2px">
+<tr>
+<th><h2><center>Christism</center></h2></th>
+<th><h2><center>Islam</center></h2></th>
+</tr>
+<tr>
+<td><center><img src="christ.jpg"><h3><br>Jesus Christ</h3></img></center></td>
+<td><center><img src="2810083_orig.jpg"><h3><br>Mohhammad</h3></img></center></td>
+</tr>
+</table></center></div>
+</section>
+<p>
+<section>
+<footer>
+<center><table cellspacing="15px" color="grey"><tr><td><a href="home.html"><font size="3" color="white">Home</td><td><a href="food.HTML"><font size="3" color="white">Food</td>
+<td><a href="religion.html"><font size="3" color="white">Religions</td><td><a href="monuments.html"><td><a href="monuments.HTML"><font size="3" color="white">Monuments</td><td><a href="danang.HTML"><font size="3" color="white">Dances & Music</td><footer></section>
+
+</body>
+</html>    
