@@ -1,0 +1,175 @@
+<html>
+<center><head><img src="Untitled.jpg">
+<style>
+header {
+  background-color: #666;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
+body {
+  background-image: url('images (9).jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+footer {
+  width: 100%;
+  background-color: #666;
+  padding: 8px;left;
+  font-size: 30px;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<table cellspacing="20%"><tr><td><a href="home.html"><font size="4"><b>Home</b></td><td><a href="food.HTML"><font size="4"><b>Food</b></td>
+<td><a href="religion.html"><font size="4"><b>Religions</b></td><td><a href="monuments.html"><font size="4"><b>Monuments</b></td><td><a href="danang.html"><center><font size="4"><b>Dances & Music</b><center></td></tr></font></table></center><p>
+
+
+<header><h1><font face="Lucida Fax"><b><u>Classical Dance Of India</u></b></font></h1></header></center><p>
+<h3>Indian classical dance, otherwise known as Shastriya Nritya, is a term for various performance arts rooted in religious Hindu musical theatre styles, whose theory and practice can be traced to the Sanskrit text Natya Shastra. <p>
+The Sangeet Natak Akademi recognizes eight forms of dances as classical. They are
+Bharatanatyam, Kathak, Kuchipudi, Odissi, Kathakali, Sattriya, Manipuri and Mohiniyattam.<p>
+These dances are traditionally regional, all of them include music and recitation in local language or Sanskrit, and they represent a unity of core ideas in a diversity of styles, costumes and expression.
+</h3> 
+<center><table border="1"><caption><u><h1>The Eight Classical Dance Forms Of India</h1></u></caption>
+<tr>
+<th><h2>Bharatnatyam</h2></th>
+<td><h3>1.Bharatnatyam is one of the most popular classical Indian dances.<p>
+2.It is believed that Bharatnatyam was revealed by Lord Brahma to Bharata, a famous sage who then codified <br>this sacred dance in a Sanskrit text called the Natya Shastra.</h3></td>
+<td><center><img src="download (35).jpg"><h2>Mallika Sarabhai</h2></center></img></td>
+</tr>        
+
+<tr>
+<th><h2>Kathak</h2></th>
+<td><h3>1.Kathak is one of the most important classical dances of India.<p>
+2.Kathak is said to be derived from the word katha, meaning "the art of storytelling."</h3></td>
+<td><center><img src="download (42).jpg"><h2>Pandit Birju Maharaj</h2></center></img></td>
+</tr>      
+
+<tr>
+<th><h2>Kathakali</h2></th>
+<td><h3>1.Kathakali is the classical dance form of Kerala.<p>
+2.The word Kathakali literally means "Story-Play".</h3></td>
+<td><center><img src="download (36).jpg"><h2>Kalamandalam Gopi</h2></center></img></td>
+</tr>      
+
+<tr>
+<th><h2>Manipuri</h2></th>
+<td><h3>1.Manipuri dance is indigenous to Manipur, the North-eastern state of India. <p>
+2.The Manipuri dance style is inextricably woven into the life pattern of Manipuri people.</h3></td>
+<td><center><img src="download (38).jpg"><h2>Charu Mathur</h2></center></img></td>
+</tr>      
+
+<tr>
+<th><h2>Oddisi</h2></th>
+<td><h3>1.Odissi is one of the famous classical Indian dances from Orissa state. <p>
+2.The foundations of Odishee are found in Natya Shastra, the ancient Hindu Sanskrit text of performance arts.</h3></td>
+<td><center><img src="download (41).jpg"><h2>Aditi Bandyopadhyay</h2></center></img></td>
+</tr>      
+
+<tr>
+<th><h2>Kuchipudi</h2></th>
+<td><h3>1.Kuchipudi is one of the classical dance forms of the South India.<p>
+2.Kuchipudi derives its name from the Kuchipudi village of Andhra Pradesh.</h3> </td>
+<td><center><img src="download (37).jpg"><h2>Yamini Reddy</h2></center></img></td>
+</tr>      
+
+<tr>
+<th><h2>Mohiniyattyam</h2></th>
+<td><h3>1.Mohiniyattam is the classical form of Kerala.<p>
+2.Mohiniyattam is a dance form, a form of a beautiful feminine style with surging flow body movements. </h3></td>
+<td><center><img src="download (39).jpg"><h2>Vijayalakshmi</h2></center></img></td>
+</tr>      
+
+<tr>
+<th><h2>Sattriya</h2></th>
+<td><h3>1.Sattriya is a classical Indian dance that originated in its eastern state of Assam.<p>
+2.Sattras are the Vaishnava monasteries in Assam.</h3> </td>
+<td><center><img src="download (40).jpg"><h2>Jatin Goswami</h2></center></img></td>
+</tr>    
+</table></center><p>
+
+<header><h1><font face="Lucida Fax"><b><u>Classical Music Of India</u></b></font></h1></header></center><p>
+<h3>Indian classical music is a rich tradition that originated in South Asia and can now be found in all corners of the world. It’s origins date back to sacred Vedic scriptures over 6,000 years ago where chants developed a system of musical notes and rhythmic cycles.<p>
+During the medieval period, Indian classical music was generally based on two traditions:-<br>1.<u>The Carnatic music prevalent in South India</u>.<br>2.<u>The Hindustani classical music in North India.</u></h3><p>
+<header><h1><font face="Lucida Fax"><b><u>Hindustani and Carnatic Music</u></b></font></h1></header></center><p>
+<h3><ul="dot"><font align="justify"><li>Indian Music is part of Art and culture which have a rich legacy.</li>
+<li>Before the 13th Century, there was only one classical music in India.</li>
+<li>The history of Indian music can be derived from Natya Shastra, written by Bharatha Muni, a Musicologist. The Natyashastra deals with the basic theory of Music,     dance and drama called “Natya Shastra’. Under this, there were 22 notes in an octave. The idea of ‘Sruti’ was presented to permit individuals to select a suitable reference ‘root’ pitch based on the musicians’ ease. A set of ‘Rasas’ and ‘Bhavas’ or expressions were recognized.</li>
+<li>Post 13th Century Classical Music has been separated into two different styles. In North India, Persian and Mughal influence began creating its place very intensely    with Amir Khusro.</li>
+<li>Tansen and his contemporary musicians mostly performed in Dhrupad sort and later Khayal singing was promoted by Sadarang and Adarang.</li>
+<li>Carnatic Music was evolved mainly by Shyama Shastri, Tyagraja, Muthuswamy Dikshitar, and Saint Purandardas.</li>
+<li>Currently, most of the classical training revolves around Kritis composed by these great saint musicians.</li>
+</font></ul><p>
+
+<header><h1><font face="Lucida Fax"><b><u>Instruments For The Classical Music Of India</u></b></font></h1></header></center><p>
+<center><table>
+<tr>
+<td><img src="download (27).jpg"></td>
+<td><center><u><h2>Violin</h2></u></center></td>
+</tr>
+
+<tr>
+<td><center><u><h2>Tanpura</h2></u></center></td>
+<td><img src="images (5).jpg"></td>
+</tr>
+
+<tr>
+<td><img src="download (28).jpg"></td>
+<td><center><u><h2>Sarangi</h2></u></center></td>
+</tr>
+
+<tr>
+<td><center><u><h2>Saraswati Veena</h2></u></center></td>
+<td><img src="download (29).jpg"></td>
+</tr>
+
+<tr>
+<td><img src="images (4).jpg"></td>
+<td><center><u><h2>Rudra Veena</h2></u></center></td>
+</tr>
+
+<tr>
+<td><center><u><h2>Harmonium</h2></u></center></td>
+<td><img src="download (30).jpg"></td>
+</tr>
+
+<tr>
+<td><img src="download (31).jpg"></td>
+<td><center><u><h2>Flute</h2></u></center></td>
+</tr>
+
+<tr>
+<td><u><center><h2>Tabla</h2></center></u></td>
+<td><img src="download (32).jpg"></td>
+</tr>
+
+<tr>
+<td><img src="download (33).jpg"></td>
+<td><center><u><h2>Dholak</h2></u></center></td>
+</tr>
+
+<tr>
+<td><u><center><h2>Dhol</h2></center></u></td>
+<td><img src="images (6).jpg"></td>
+</tr>
+
+<tr>
+<td><img src="download (34).jpg"></td>
+<td><u><center><h2>Jal Taranga</h2></center></u></td>
+</tr>
+
+</table></center></FONT><p>
+
+<footer>
+<center><table cellspacing="15px"><tr><td><a href="home.html"><font size="3" color="white">Home</td><td><a href="food.HTML"><font size="3" color="white">Food</td>
+<td><a href="religion.html"><font size="3" color="white">Religions</td><td><a href="monuments.html"><font size="3" color="white">Monuments</td><td><a href="danang.html"><center><font size="3" color="white">Dances & Music<center></td></tr></font></table></center></footer>
+
+</body>
+</html>

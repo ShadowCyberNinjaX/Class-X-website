@@ -1,0 +1,218 @@
+<html>
+<center><head><img src="bannerr.jpg">
+<style>
+header {
+  background-color: #666;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
+body {
+  background-image: url('images (2).jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+nav {
+  float: right;
+  width: 40%;
+  height: 330px;
+  background: #ccc;
+  padding: 1px;
+  }
+
+article {
+  float: left;
+  padding: 1px;
+  width: 59%;
+background: #ffddcc;
+  height: 330px; 
+text-align: justify
+}
+
+.div1 {
+float: left;
+  width:45%;
+  height: 294px;
+  background: #ffddcc;
+  padding: 5px;
+}
+
+.div2 {
+  float: right;
+  padding: 5px;
+  width: 53%;
+background: #ccc;
+  height: 294px; 
+text-align:justify;
+}
+
+
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+footer {
+  width: 100%;
+  background-color: #666;
+  padding: 8px;left;
+  font-size: 30px;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<table cellspacing="20%"><tr><td><a href="home.html"><font size="4"><b>Home</b></td><td><a href="food.HTML"><font size="4"><b>Food</b></td>
+<td><a href="religion.html"><font size="4"><b>Religions</b></td><td><a href="monuments.html"><font size="4"><b>Monuments</b></td><td><a href="danang.html"><center><font size="4"><b>Dances & Music</b><center></td></tr></font></table></center><p>
+
+<header><h1><font face="Lucida Fax"><b><u>Food Habits Of India</u></b></font></h1></header></center><p>
+<section><font align="justify">
+<nav><h2>Indian people across the nation eat different food as per their geographical availability.<p>
+<ul="dot"><h3>
+<li>Vegetables</li><p>
+<li>Seafood</li><p>
+<li>Masala-spices</li><p>
+<li>Rice</li><p>
+<li>Tea, Coffee</li><p>
+</h3></ul>
+</nav>
+<article>
+<h3>  India is a diverse nation with many different cultures.  Although there are some eating habits that are considered staples of Indian cuisine, these habits may not be practiced by all the cultures of India. Cuisine differs across India’s diverse regions as a result of variation in local culture, geographical location (proximity to sea, desert, or mountains), and economics. It also varies seasonally, depending on which fruits and vegetables are ripe. Also, Middle Eastern and Central Asian influences have occurred on North Indian cuisine from the years of Mughal rule. Indian cuisine is still evolving, as a result of the nation’s cultural interactions with other societies.<p>
+Eating habits of the Indian culture are based on culinary traditions. Most dishes feature meat or vegetables mixed with sauce and rice. Many Indians are vegetarian, so eating habits are often based on a diet that excludes all meat. When meat is incorporated in dishes, it is most commonly in the form of chicken, beef or lamb, and sometimes seafood, such as prawns. The majority of the Indian population is Hindu, so beef and pork are often excluded from Indian dishes due to religious requirements.</h3>
+</article>
+</font></section><p>
+
+<header><h1><font face="Lucida Fax"><b><u>Spices Of India</u></b></font></h1></header></center><p>
+<section>
+<div class="div2"><h2>Here is the list for some of the essential spices of Indian cuisines:</h2><p>
+<h3>Tulsi - Basil  |  
+Tej Patta - Bay Leaf  |  
+Kali Mirch - Black Pepper  |  
+Hing - Asafoetida  |  
+Kala Namak - Black Salt  |  
+Elaichi - Cardamom  |  
+Ajwain - Caram seeds or Celery seeds  |  
+Dalchini - Cinnamon  |  
+Laung - Cloves  |  
+Dhania - Coriander  |  
+Kadi Patta - Curry Leaves  |  
+Jeera - Caraway seeds  |  
+Amchoor - Dry mango powder  |  
+Saunf - Fennel  |  
+Adrak Powder - Ginger powder  |  
+Amla Powder - Gooseberry Grass  |  
+Lahsun Powder - Garlic Powder  |  
+Javitri - Mace  |  
+Rai or Sarson - Mustard seeds  |  
+Pudhina - Mint  |  
+Haldi - Turmeric  |  
+Imli - Tamarind  |  
+Chakri Fool - Star Anise  |  
+Til - Sesame seeds  |  
+Gulkand - Rose Petal conserve  |  
+Sendha Namak - Rock Salt  |  
+Anar dana - Pomegranate seeds  |  
+Kesar - Saffron  |  
+Sukhi lal mirch - Dried red chilli  |  
+Chinni - Sugar</h3></div>
+<div class="div1"><center><img src="images (7).jpg"></center></div>
+</section><p>
+
+<header><h1><font face="Lucida Fax"><b><u>28 Signature Dishes Of 28 States</u></b></font></h1></header></center><p>
+<center><table>
+<tr>
+<td><img src="1.jpg"></td>
+<td><img src="2.jpg"></td>
+<td><img src="3.jpg"></td>
+<td><img src="4.jpg"></td>
+<td><img src="6.jpg"></td>
+</tr>
+<tr>
+<td><center><h3>Misal Pav- <br>Maharashtra</h3></center></td>
+<td><center><h3>Makki Di Roti and Sarson Da Sag-<br> Punjab</h3></center></td>
+<td><center><h3>Kosha Mangso- <br>Westbengal</h3></center></td>
+<td><center><h3>Dhokla- <br>Gujrat</h3></center></td>
+<td><center><h3>Pongal- <br>Tamilnadu</h3></center></td>
+</tr>
+<tr>
+
+<td><img src="7.jpg"></td>
+<td><img src="8.jpg"></td>
+<td><img src="9.jpg"></td>
+<td><img src="10.jpg"></td>
+<td><img src="11.jpg"></td>
+</tr>
+<tr>
+<td><center><h3>Papaya Khar- <br>Assam</h3></center></td>
+<td><center><h3>Litti Chowkha- <br>Bihar</h3></center></td>
+<td><center><h3>Dham- <br>Himachal Pradesh</h3></center></td>
+<td><center><h3>Pootharekulu-<br>Andhra Pradesh</h3></center></td>
+<td><center><h3>Biriyani- <br>Telanga</h3></center></td>
+</tr>
+<tr>
+<td><img src="12.jpg"></td>
+<td><img src="13.jpg"></td>
+<td><img src="14.jpg"></td>
+<td><img src="15.jpg"></td>
+<td><img src="16.jpg"></td>
+</tr>
+<tr>
+<td><center><h3>Fish curry-<br>Goa</h3></center></td>
+<td><center><h3>Kafuli-<br>Uttarakhand</h3></center></td>
+<td><center><h3>Chawkhi-<br>Tripura</h3></center></td>
+<td><center><h3>Kangsoi-<br>Manipur</h3></center></td>
+<td><center><h3>Jadoh-<br>Meghalaya</h3></center></td>
+</tr>
+<tr>
+<td><img src="17.jpg"></td>
+<td><img src="18.jpg"></td>
+<td><img src="19.jpg"></td>
+<td><img src="20.jpg"></td>
+<td><img src="21.jpg"></td>
+</tr>
+<tr>
+<td><center><h3>Sadhya-<br>Kerala</h3></center></td>
+<td><center><h3>Bhutte ka Kees- <br>Madhya Pradesh</h3></center></td>
+<td><center><h3>Dal Bati Churma- <br>Rajasthan</h3></center></td>
+<td><center><h3>Bajre ki Khichuri-<br>Haryana</h3></center></td>
+<td><center><h3>Thukpa-<br>Arunachal Pradesh</h3></center></td>
+</tr>
+<tr>
+<td><img src="22.jpg"></td>
+<td><img src="23.jpg"></td>
+<td><img src="24.jpg"></td>
+<td><img src="25.jpg"></td>
+<td><img src="26.jpg"></td>
+</tr>
+<tr>
+<td><center><h3>Momos-<br>Sikkim</h3></center></td>
+<td><center><h3>Bisi Bele Bath-<br>Karnataka</h3></center></td>
+<td><center><h3>Pork with Bamboo <br>Shoots-Nagaland</h3></center></td>
+<td><center><h3>Misa Mash Pura-<br>Mizoram</h3></center></td>
+<td><center><h3>Chenna Poda-<br>Oddisa</h3></center></td>
+</tr>
+<tr>
+<td><img src="27.jpg"></td>
+<td><img src="28.jpg"></td>
+<td><img src="29.jpg"></td>
+</tr>
+<tr>
+<td><center><h3>Chila-<br>Chattisgarh</h3></center></td>
+<td><center><h3>Rugda-<br>Jharkhand</h3></center></td>
+<td><center><h3>Kabab-<br>Uttar Pradesh</h3></center></td>
+</tr>
+</table></center>
+
+<footer>
+<center><table cellspacing="15px"><tr><td><a href="home.html"><font size="3" color="white">Home</td><td><a href="food.HTML"><font size="3" color="white">Food</td>
+<td><a href="religion.html"><font size="3" color="white">Religions</td><td><a href="monuments.html"><font size="3" color="white">Monuments</td><td><a href="danang.html"><center><font size="3" color="white">Dances & Music<center></td></tr></font></table></center></footer>
+</body>
+</html>
+
